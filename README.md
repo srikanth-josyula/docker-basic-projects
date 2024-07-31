@@ -30,7 +30,7 @@ The repository is structured into multiple branches, each focusing on a specific
 
 
 ## How to Use This Repository
-* Clone the repository: `git clone https://github.com/srikanth-josyula/springboot-docker-kubernetes.git`
+* Clone the repository: `git clone https://github.com/srikanth-josyula/springboot-docker-projects.git`
   - cd springboot-docker-kubernetes
 * Check out a specific branch:
   `git checkout branch-name`
