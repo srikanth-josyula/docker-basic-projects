@@ -5,9 +5,9 @@ The repository is structured into multiple branches, each focusing on a specific
 
 ## Branches
 * main: Default branch with an overview and links to all other branches.
-* dockerize-springboot-app
- - Objective: Containerize the Spring Boot application using Docker.
- - Key Learnings: Dockerfile creation, building Docker images, running containers.
+* **[dockerize-springboot-app](https://github.com/srikanth-josyula/springboot-docker-kubernetes/tree/docker-basic-setup)**
+  - Objective: Containerize the Spring Boot application using Docker.
+  - Key Learnings: Dockerfile creation, building Docker images, running containers.
 
 * docker-compose
  - Objective: Use Docker Compose to manage multi-container applications.
