@@ -3,7 +3,10 @@ This repository documents the step-by-step learning process, with each branch re
 ### Repository Structure
 The repository is structured into multiple branches, each focusing on a specific learning objective. Below is an overview of the branches and the corresponding topics:
 
-## Branches
+### Prerequisites
+* [Docker Setup And Installation Process](https://github.com/srikanth-josyula/springboot-docker-kubernetes/blob/main/docs/Docker%20Installation%20Guide.pdf)
+
+### Branches
 * main: Default branch with an overview and links to all other branches.
 * **[dockerize-springboot-app](https://github.com/srikanth-josyula/springboot-docker-kubernetes/tree/docker-basic-setup)**
   - Objective: Containerize the Spring Boot application using Docker.
