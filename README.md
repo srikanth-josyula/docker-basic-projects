@@ -11,14 +11,15 @@ The repository is structured into multiple branches, each focusing on a specific
 * **[dockerize-springboot-app](https://github.com/srikanth-josyula/springboot-docker-projects/tree/docker-basic-setup)**
   - **Objective**: Containerize the Spring Boot application using Docker.
   - **Key Learnings**: Dockerfile creation, building Docker images, running containers.
+ 
+* **[docker-volume-management](https://github.com/srikanth-josyula/springboot-docker-projects/tree/docker-volume-management)**
+  - **Objective**: Implement Docker volumes for managing and persisting application logs or configuration files.
+  - **Key Learnings**: Creating and managing volumes, mounting volumes, data persistence, volume security.
 
 * **docker-compose-setup**
   - **Objective**: Use Docker Compose to manage multi-container applications.
   - **Key Learnings**: Docker Compose basics, defining services, linking containers.
 
-* **docker-volume-management**
-  - **Objective**: Implement Docker volumes for managing and persisting application logs or configuration files.
-  - **Key Learnings**: Creating and managing volumes, mounting volumes, data persistence, volume security.
 
 * **multi-stage-builds**
   - **Objective**: Optimize Docker images using multi-stage builds to create lean, production-ready images.
