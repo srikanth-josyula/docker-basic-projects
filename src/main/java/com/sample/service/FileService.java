@@ -21,8 +21,11 @@ import com.itextpdf.text.pdf.codec.TiffImage;
 @Service
 public class FileService {
 
-    private static final String TEMP_DIR = "/Users/srikanthjosyula/Documents/workspace/";
-    private static final String TEMP_PDF_PATH = TEMP_DIR + "converted.pdf";
+    //private static final String TEMP_DIR = "/Users/srikanthjosyula/Documents/workspace/";
+    
+	// Use system property or default path
+    private static final String TEMP_DIR = System.getProperty("temp.path", "/default/temp/path");
+	private static final String TEMP_PDF_PATH = TEMP_DIR + "converted.pdf";
 
     @SuppressWarnings("deprecation")
 	public InputStreamResource convertTiffToPdf(MultipartFile file) throws IOException {
