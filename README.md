@@ -16,11 +16,6 @@ The repository is structured into multiple branches, each focusing on a specific
   - **Objective**: Implement Docker volumes for managing and persisting application logs or configuration files.
   - **Key Learnings**: Creating and managing volumes, mounting volumes, data persistence, volume security.
 
-* **docker-compose-setup**
-  - **Objective**: Use Docker Compose to manage multi-container applications.
-  - **Key Learnings**: Docker Compose basics, defining services, linking containers.
-
-
 * **multi-stage-builds**
   - **Objective**: Optimize Docker images using multi-stage builds to create lean, production-ready images.
   - **Key Learnings**: Multi-stage Dockerfile setup, reducing image size, build optimization.
