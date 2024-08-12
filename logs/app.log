@@ -1,0 +1,7 @@
+2024-08-08 12:23:54,900 INFO c.s.VolumeManagementDemo [main] Starting VolumeManagementDemo using Java 19.0.1 with PID 1790 (/Users/srikanthjosyula/Documents/GitHub-Projects/springboot-docker-projects/target/classes started by srikanthjosyula in /Users/srikanthjosyula/Documents/GitHub-Projects/springboot-docker-projects)
+2024-08-08 12:23:54,905 DEBUG c.s.VolumeManagementDemo [main] Running with Spring Boot v3.3.1, Spring v6.1.10
+2024-08-08 12:23:54,906 INFO c.s.VolumeManagementDemo [main] No active profile set, falling back to 1 default profile: "default"
+2024-08-08 12:23:55,631 INFO o.s.b.w.e.t.TomcatWebServer [main] Tomcat initialized with port 6090 (http)
+2024-08-08 12:23:55,681 INFO o.s.b.w.s.c.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 745 ms
+2024-08-08 12:23:55,922 INFO o.s.b.w.e.t.TomcatWebServer [main] Tomcat started on port 6090 (http) with context path '/'
+2024-08-08 12:23:55,931 INFO c.s.VolumeManagementDemo [main] Started VolumeManagementDemo in 1.222 seconds (process running for 1.792)
