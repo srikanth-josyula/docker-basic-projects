@@ -14,16 +14,15 @@ The repository is structured into multiple branches, each focusing on a specific
  
 * **[docker-volume-management](https://github.com/srikanth-josyula/springboot-docker-projects/tree/docker-volume-management)**
   - **Objective**: Implement Docker volumes for managing and persisting application logs or configuration files.
-  - **Key Learnings**: Creating and managing volumes, mounting volumes, data persistence, volume security.
+  - **Key Learnings**: Creating and managing volumes, mounting volumes using a springboot app, writing logs and temp files to volumes
 
-* **multi-stage-builds**
+* **[multi-stage-builds](https://github.com/srikanth-josyula/springboot-docker-projects/tree/docker-multi-stage)**
   - **Objective**: Optimize Docker images using multi-stage builds to create lean, production-ready images.
-  - **Key Learnings**: Multi-stage Dockerfile setup, reducing image size, build optimization.
+  - **Key Learnings**: Multi-stage Dockerfile setup, by using maven installation in one build and running the app is another build
 
-* **advanced-docker-compose**
-  - **Objective**: Implement advanced Docker Compose features, such as health checks, dependencies, and service scaling.
-  - **Key Learnings**: Health checks configuration, managing service dependencies, scaling services.
-
+* **[docker-networking](https://github.com/srikanth-josyula/springboot-docker-projects/tree/docker-networking)**
+  - **Objective**: Implemention of networking, creating the network between different docker container
+  - **Key Learnings**: Sprinboot apps communicating with each other using a network bridge
 
 ## How to Use This Repository
 * Clone the repository: `git clone https://github.com/srikanth-josyula/springboot-docker-projects.git`
